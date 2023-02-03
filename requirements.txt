@@ -1,0 +1,4 @@
+aiohttp
+zipfile
+aiofiles
+asyncio
